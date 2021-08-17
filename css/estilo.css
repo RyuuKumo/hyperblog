@@ -1,0 +1,21 @@
+h1 
+{
+    text-align: center;
+    color: rgb(47, 115, 124);
+    font-family:"Helvetica";
+}
+#theme
+{
+    color:blue;
+    font-family:'Courier New', Courier, monospace;
+}
+#comment
+{
+    color:coral;
+    font-family:fantasy;
+}
+#proof
+{
+    color:rgb(52, 63, 73);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
