@@ -1,2 +1,2 @@
 # hyperblog
-this change is made from GitHob
+this change is made for Remix From GitHub
